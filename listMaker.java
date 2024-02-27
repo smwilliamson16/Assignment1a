@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class listMaker {
+public class ListMaker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> listMaker = new ArrayList<>();
